@@ -1,0 +1,8 @@
+what is the plan?
+
+-create vocabulary trainer here
+-create verb trainer here
+    make verb class extending vocabulary
+    takes name and from that downloads html page with all forms
+    scrapes the data out of the page and saves every forms
+    when adding new verbs just type in the spanish translation and the scraper does the rest
